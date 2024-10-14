@@ -33,10 +33,6 @@ I am a **Full Stack Developer** with a passion for building dynamic and scalable
 - Real-time collaboration tools and WebSocket integration for projects like **Space**
 - More advanced **data algorithms** (DFS, BFS, Dijkstra's) to enhance backend development.
 
-### 📫 Let's Connect!
-- **Email**: [studyhard012345@gmail.com](mailto:studyhard012345@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Portfolio**: [Your Portfolio Website](https://yourportfolio.com)
 
 Feel free to check out my repositories or reach out to collaborate!
 
