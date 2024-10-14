@@ -1,5 +1,5 @@
 
-## 👋 Hi there! I'm [Your Name]
+## 👋 Hi there! I'm Vaishnav Verma
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=vermavaishnav70&show_icons=true&theme=radical&count_private=true)
 
