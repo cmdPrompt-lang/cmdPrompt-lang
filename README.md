@@ -1,7 +1,7 @@
 
 ## 👋 Hi there! I'm [Your Name]
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=vermavaishnav70&show_icons=true&theme=radical&count_private=true)
 
 ### 🚀 About Me
 
